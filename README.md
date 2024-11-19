@@ -1,7 +1,7 @@
 # f7_empresas
-PRIMERA VUELTA
------------------
-JORNADA 04-nov-24 Resultado 
+| PRIMERA VUELTA |
+|-----------------|
+|JORNADA 04-nov-24 Resultado |
 -----------------------------
 1
 --------------------------
